@@ -1,0 +1,158 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(223, 219, 219);
+}
+.nav {
+    margin: 0px;
+    /* z-index: 1; */
+    width:100%;
+    
+}
+.nav ul{  
+    float:right;
+    background-color:rgb(1, 11, 128);
+    width:100%;
+    margin:0px;
+    padding: 10px;
+}
+.nav ul li:nth-child(1){
+    float:left;
+
+    font-size: 25px;
+    margin-left:25px;
+}
+.nav ul li{
+    float: right;
+    display: initial;
+    color: white;
+    padding-right:25px;
+    font-size: 20px;
+}
+body {
+    margin: 0px;
+
+}
+.AboutAuthor{
+    width:1000px;
+    margin: 0px auto;
+    text-align: center;  
+    height: fit-content; 
+    position: relative;
+    top:50px;   
+
+}
+.AuthorContent ul{
+    text-decoration: none;
+}
+.AuthorContent li{
+    padding: 10px;
+    font-size: 15px;
+}
+.AuthorContent p{
+    font-size: 18px;
+}
+.header{
+    text-align: center;
+}
+.AuthorPic{
+    
+    width:40%;
+    float: left;
+}
+.Part1{
+    height: 600px;
+    position: relative;
+}
+
+.AuthorPic img{
+    height: 200px;
+    width:80%;
+    margin-bottom: 20px;
+}
+.AuthorContent {
+    position: relative;
+    width: 90%;
+    margin-left: 35px;
+    text-align: left;
+}
+.content2{
+    top: 130px;
+    position: relative;
+    text-align: left;
+    width: 70%;
+    margin-left: 35px;
+}
+.content2 p{
+    font-size: 18px;
+}
+.content2 ul li{
+    padding:10px;
+    font-size: 15px;
+}
+.content2 ul{
+    text-decoration: none;
+}
+.team{
+    position: relative;
+    height: 600px;
+    padding-top: 100px;
+    width: 100%;
+    margin:0px auto;
+    margin-top: 100px;
+
+}
+.team-heading{
+    background-color: whitesmoke;
+}
+.mate1, .mate2, .mate3{
+    float: left;
+    position: relative;
+    width:33.3%;
+    box-sizing: border-box;
+    height: 450px;
+    padding: 50px;
+    padding-top: 20px;
+    text-align: center;
+    background-color: whitesmoke;
+    
+}
+.mate1-bio, .mate2-bio, .mate3-bio{
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    margin: 0px auto;
+    box-sizing: border-box; 
+    background-color: white;
+    border-radius: 25px; 
+    padding-left: 60px;
+    padding-right: 60px;
+    box-shadow: -4px 3px;
+}
+.mate1-bio img, .mate2-bio img, .mate3-bio img{
+   margin-top: 20px;
+    height: 150px;
+    width: 150px;
+}
+.footer{
+    position: relative;
+    height: 50px;
+    background-color:rgb(1, 11, 128);
+}
+.footer ul{
+    
+    display: inline; 
+    text-decoration: none;
+}
+.footer ul li{
+    
+    margin-right: 25px;
+    display: initial;
+    float: right;
+    color: white;
+    font-size: 20px;
+    height:15px;
+}
+
