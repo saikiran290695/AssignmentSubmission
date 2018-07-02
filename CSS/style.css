@@ -35,6 +35,7 @@ a:hover{
     position: sticky; 
     z-index: 1;
     width:100%;
+    top: -90px;
 }
 .nav ul{  
     float:right;
