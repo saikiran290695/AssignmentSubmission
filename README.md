@@ -1,0 +1,3 @@
+This is an Assignment, which basically consists of working pages - Home page and About us page. This site describes about an organisation which manufactures IC's and Processors. 
+In order to deploy over server, you need NPM server installed in your local machine, once installed, using git bash re-direct to your html folder, containing Index.html, which you want to host.
+Run Static ., to start the server. once the server starts, go to 127.0.0.1:8080 to view your html live.
